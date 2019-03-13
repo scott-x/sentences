@@ -1,0 +1,14 @@
+{
+  "name": "sc-benchmark-sentences",
+  "version": "1.0.0",
+  "description": "A cli for regular sentences used in email",
+  "bin": {
+    "text": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Scott Xiong",
+  "license": "ISC"
+}
